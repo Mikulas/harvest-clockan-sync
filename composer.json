@@ -1,0 +1,15 @@
+{
+    "name": "mikulas/harvest_clockan",
+    "description": "Sync between getharvest.com nad clockan.com",
+    "license": "New BSD",
+    "authors": [
+        {
+            "name": "Mikulas",
+            "email": "rullaf@gmail.com"
+        }
+    ],
+    "require": {
+        "kdyby/curl": "@dev",
+        "mikulas/console": "@dev",
+    }
+}
